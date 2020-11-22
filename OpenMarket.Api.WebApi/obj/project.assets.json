@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETCoreApp,Version=v3.1": {
       "AutoMapper/10.0.0": {
         "type": "package",
         "dependencies": {
@@ -10562,7 +10562,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETCoreApp,Version=v3.1": [
       "FluentValidation.AspNetCore >= 9.1.2",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.7",
       "Microsoft.AspNetCore.Mvc.Versioning >= 4.1.1",
@@ -10606,15 +10606,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "G:\\source\\.net\\OpenMarket\\OpenMarket.Api\\OpenMarket.Api.Application\\OpenMarket.Api.Application.csproj": {
               "projectPath": "G:\\source\\.net\\OpenMarket\\OpenMarket.Api\\OpenMarket.Api.Application\\OpenMarket.Api.Application.csproj"
@@ -10638,8 +10638,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "FluentValidation.AspNetCore": {
             "target": "Package",

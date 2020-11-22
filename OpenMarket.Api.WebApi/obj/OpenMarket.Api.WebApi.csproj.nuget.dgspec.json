@@ -454,15 +454,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
               "G:\\source\\.net\\OpenMarket\\OpenMarket.Api\\OpenMarket.Api.Application\\OpenMarket.Api.Application.csproj": {
                 "projectPath": "G:\\source\\.net\\OpenMarket\\OpenMarket.Api\\OpenMarket.Api.Application\\OpenMarket.Api.Application.csproj"
@@ -486,8 +486,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "FluentValidation.AspNetCore": {
               "target": "Package",

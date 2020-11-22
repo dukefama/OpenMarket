@@ -54,6 +54,7 @@ namespace OpenMarket.Api.WebApi
                     Log.CloseAndFlush();
                 }
             }
+           
             host.Run();
         }
         public static IHostBuilder CreateHostBuilder(string[] args) =>
