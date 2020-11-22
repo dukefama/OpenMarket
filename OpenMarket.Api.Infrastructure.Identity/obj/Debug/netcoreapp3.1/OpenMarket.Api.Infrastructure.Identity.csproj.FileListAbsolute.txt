@@ -1,0 +1,17 @@
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.deps.json
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.runtimeconfig.json
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.runtimeconfig.dev.json
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Application.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Domain.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Application.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\bin\Debug\netcoreapp3.1\OpenMarket.Api.Domain.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.csprojAssemblyReference.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.AssemblyInfoInputs.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.AssemblyInfo.cs
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.csproj.CopyComplete
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Identity\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Identity.genruntimeconfig.cache

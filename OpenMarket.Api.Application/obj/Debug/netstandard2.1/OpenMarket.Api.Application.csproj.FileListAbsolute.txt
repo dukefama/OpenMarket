@@ -1,0 +1,12 @@
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\bin\Debug\netstandard2.1\OpenMarket.Api.Application.deps.json
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\bin\Debug\netstandard2.1\OpenMarket.Api.Application.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\bin\Debug\netstandard2.1\OpenMarket.Api.Application.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\bin\Debug\netstandard2.1\OpenMarket.Api.Domain.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\bin\Debug\netstandard2.1\OpenMarket.Api.Domain.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\obj\Debug\netstandard2.1\OpenMarket.Api.Application.csprojAssemblyReference.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\obj\Debug\netstandard2.1\OpenMarket.Api.Application.AssemblyInfoInputs.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\obj\Debug\netstandard2.1\OpenMarket.Api.Application.AssemblyInfo.cs
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\obj\Debug\netstandard2.1\OpenMarket.Api.Application.csproj.CoreCompileInputs.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\obj\Debug\netstandard2.1\OpenMarket.Api.Application.csproj.CopyComplete
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\obj\Debug\netstandard2.1\OpenMarket.Api.Application.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Application\obj\Debug\netstandard2.1\OpenMarket.Api.Application.pdb

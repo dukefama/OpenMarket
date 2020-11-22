@@ -1,0 +1,14 @@
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.deps.json
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\OpenMarket.Api.Application.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\OpenMarket.Api.Domain.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\OpenMarket.Api.Application.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\bin\Debug\netcoreapp3.1\OpenMarket.Api.Domain.pdb
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.csprojAssemblyReference.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.AssemblyInfoInputs.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.AssemblyInfo.cs
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.csproj.CopyComplete
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.dll
+G:\source\.net\OpenMarket\OpenMarket.Api\OpenMarket.Api.Infrastructure.Persistence\obj\Debug\netcoreapp3.1\OpenMarket.Api.Infrastructure.Persistence.pdb
